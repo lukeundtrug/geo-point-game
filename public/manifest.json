@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Geo Point",
+  "name": "A game which requires geographical knowledge",
   "icons": [
     {
       "src": "favicon.ico",
