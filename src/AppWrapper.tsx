@@ -6,7 +6,7 @@ import { ThemeProvider } from 'styled-components';
 import defaultTheme from './theme';
 import GlobalStyle from './global-style';
 
-const App: React.FC = ({ children }) => {
+const AppWrapper: React.FC = ({ children }) => {
   return (
     <>
       <CssBaseline />
@@ -20,4 +20,4 @@ const App: React.FC = ({ children }) => {
   );
 };
 
-export default App;
+export default AppWrapper;
